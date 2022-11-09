@@ -5,7 +5,8 @@ Awesome Laravel Foundation serves as a place to list all the links that contains
 
 ## Links
 * Official Documentation: https://laravel.com/docs
-* Laravel tips by Laravel Daily: https://github.com/LaravelDaily/laravel-tips
-* Laravel Code Tips by ArchTech: https://laravel-code.tips/
+* Laravel Tips by Laravel Daily: https://github.com/LaravelDaily/laravel-tips
+* Laravel Code Tips by ArchTech: https://laravel-code.tips
+* Laravel Best Practices by alexeymezenin: https://github.com/alexeymezenin/laravel-best-practices
 
 **Disclaimer**: Awesome Laravel Foundation justs provide the list of links that developers might benefit from when using Laravel for development.
